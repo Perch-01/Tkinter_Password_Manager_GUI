@@ -1,5 +1,7 @@
 # Tkinter_Password_Manager_GUI
-This is a password manager GUI made with Tkinter and python which saves your entered website, password and email into a locally generated file so that you always have your saved passwords acessible to you. You can also search up saved passwords by providing the website the password is associated with
+This is a password manager GUI made with Tkinter and python which saves your entered website, password and email into a locally generated file so that you always have your saved passwords acessible to you. You can also search up saved passwords by providing the website the password is associated with.
+
+It displays knowledge of Tkinter GUI library, using JSON objects in python, form validation, error handling and much more. 
 
 Features
 - Save password into a JSON database whch is stored locally and easily accessible to you
